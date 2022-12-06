@@ -3723,7 +3723,7 @@
                          "value":"x-ray-on"
                         }],
                  "rotation":0,
-                 "type":"area",
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":3122.66666666667,
@@ -4407,7 +4407,7 @@
          "name":"roof",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":109,
          "x":0,
          "y":0
