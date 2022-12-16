@@ -1616,7 +1616,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"#entry-squid-bridge"
+                 "value":"playground.json#entry-squid-bridge"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -3074,7 +3074,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"#entry-1"
+                         "value":"playground.json#entry-1"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3091,7 +3091,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"#entry-2"
+                         "value":"playground.json#entry-2"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3108,7 +3108,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"#entry-3"
+                         "value":"playground.json#entry-3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3125,7 +3125,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"#entry-4"
+                         "value":"playground.json#entry-4"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3142,7 +3142,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"#entry-5"
+                         "value":"playground.json#entry-5"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3159,7 +3159,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"#entry-6"
+                         "value":"playground.json#entry-6"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3176,7 +3176,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"#entry-7"
+                         "value":"playground.json#entry-7"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3193,7 +3193,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"#entry-8"
+                         "value":"playground.json#entry-8"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3210,7 +3210,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"#entry-9"
+                         "value":"playground.json#entry-9"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3227,7 +3227,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"#entry-8"
+                         "value":"playground.json#entry-8"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3244,7 +3244,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"#entry-7"
+                         "value":"playground.json#entry-7"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3261,7 +3261,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"#entry-6"
+                         "value":"playground.json#entry-6"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3278,7 +3278,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"#entry-5"
+                         "value":"playground.json#entry-5"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3295,7 +3295,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"#entry-4"
+                         "value":"playground.json#entry-4"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3312,7 +3312,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"#entry-3"
+                         "value":"playground.json#entry-3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3329,7 +3329,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"#entry-2"
+                         "value":"playground.json#entry-2"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3346,7 +3346,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"#entry-1"
+                         "value":"playground.json#entry-1"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3363,7 +3363,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"#entry-9"
+                         "value":"playground.json#entry-9"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3380,7 +3380,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"#entry-plank"
+                         "value":"playground.json#entry-plank"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3397,7 +3397,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"#entry-hammock-1"
+                         "value":"playground.json#entry-hammock-1"
                         }],
                  "rotation":357.908040192352,
                  "type":"area",
@@ -3414,7 +3414,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"#entry-hammock-2"
+                         "value":"playground.json#entry-hammock-2"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3431,7 +3431,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"#entry-hammock-3"
+                         "value":"playground.json#entry-hammock-3"
                         }],
                  "rotation":1.28757545751086,
                  "type":"area",
@@ -3448,7 +3448,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"#entry-hammock-2"
+                         "value":"playground.json#entry-hammock-2"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3465,7 +3465,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"#entry-hammock-4"
+                         "value":"playground.json#entry-hammock-4"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3482,7 +3482,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"#entry-fire-station"
+                         "value":"playground.json#entry-fire-station"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3723,7 +3723,7 @@
                          "value":"x-ray-on"
                         }],
                  "rotation":0,
-                 "type":"variable",
+                 "type":"area",
                  "visible":true,
                  "width":0,
                  "x":3122.66666666667,
